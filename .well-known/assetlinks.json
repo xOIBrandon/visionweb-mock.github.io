@@ -1,9 +1,9 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.xoi.vision.local",
-      "sha256_cert_fingerprints":
-      ["81:3F:26:3F:73:9D:3F:36:31:AC:39:BA:29:00:1B:E2:B0:9C:FC:A1:C7:2D:18:BF:9B:A9:D7:D2:8E:A7:D8:34"]
-    }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.xoi.vision.local",
+    "sha256_cert_fingerprints":
+    ["81:3F:26:3F:73:9D:3F:36:31:AC:39:BA:29:00:1B:E2:B0:9C:FC:A1:C7:2D:18:BF:9B:A9:D7:D2:8E:A7:D8:34"]
+  }
+}]
