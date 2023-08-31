@@ -3,9 +3,18 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["M9A666Z534.io.xoi.vision", "M9A666Z534.io.xoi.vision.dev", "M9A666Z534.io.xoi.vision.local", "M9A666Z534.io.xoi.vision.ea", "M9A666Z534.io.xoi.vision.demo"],
+        "appIDs": [
+          "M9A666Z534.io.xoi.vision",
+          "M9A666Z534.io.xoi.vision.dev",
+          "M9A666Z534.io.xoi.vision.local",
+          "M9A666Z534.io.xoi.vision.ea",
+          "M9A666Z534.io.xoi.vision.demo"
+        ],
         "components": [
-          { "/": "/*" }
+          { "/": "/my-work/*" },
+          { "/": "/activity/*" },
+          { "/": "/knowledge/*" },
+          { "/": "/teams/*" }
         ]
       }
     ]
