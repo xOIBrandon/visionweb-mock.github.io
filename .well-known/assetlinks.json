@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.xoi.vision.local",
-    "sha256_cert_fingerprints":
-    ["81:3F:26:3F:73:9D:3F:36:31:AC:39:BA:29:00:1B:E2:B0:9C:FC:A1:C7:2D:18:BF:9B:A9:D7:D2:8E:A7:D8:34"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.xoi.vision.dev",
+      "sha256_cert_fingerprints":
+      [
+        "66:0E:83:78:96:34:D0:A8:80:E1:59:E9:23:BF:2B:44:C1:02:B1:68:48:59:52:BE:EC:28:24:07:E8:B6:0F:EE",
+        "19:F5:B0:69:8D:75:A5:53:FF:86:4D:01:2F:77:00:70:28:79:A2:9D:D0:4D:31:DD:21:EE:C4:65:90:2D:81:49"
+      ]
+    }
   }
-}]
+]
